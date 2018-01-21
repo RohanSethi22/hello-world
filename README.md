@@ -1,5 +1,5 @@
 # hello-world
 Learning how to use GitHub
 
-Looks interesting... 
-Looking forward to a great experienceusing Git and GitHub. Yeah !
+Seems interesting... 
+Looking forward to a great experience using Git and GitHub.
