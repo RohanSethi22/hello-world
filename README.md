@@ -2,4 +2,4 @@
 Learning how to use GitHub
 
 Looks interesting... 
-Looking forward to a great experienceusing Git and GitHub.
+Looking forward to a great experienceusing Git and GitHub. Yeah !
